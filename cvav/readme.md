@@ -1,7 +1,7 @@
 ```
 Team Name : The Alphas
 
-Authors : Ashay Ajbani and Pritam Rao
+Authors : Pritam Rao and Ashay Ajbani
 
 Competition Type : Image Classification
 
@@ -39,14 +39,7 @@ Techniques used to reduce overfitting :
 * l2 Regularization 
  
 
-**Accuracy** : 
-<ul>
-<li> Model 1 : 0.9498 </li>
-<li> Model 2 : 0.9546 </li>
-<li> Model 3 : 0.9444 </li>
-<li> Model 4 : 0.9548 </li>
-<li> Model 5 : 0.9514 </li>
-<li> After Ensembling (final) : 0.9688 </li>
-</ul>
+## Model Comparison 
+<img src="model_cmp.png">
 
 You can checkout Aashay's github profile at ```https://github.com/ashay36```
