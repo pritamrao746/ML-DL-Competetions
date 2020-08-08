@@ -1,5 +1,5 @@
 ## Predicting category of interest rate
-Here, goal is to use training dataset to predict the Interest rate as of 3 categories (1 / 2 / 3) that will be assigned to each loan in our test set.
+Here, goal is to use training dataset to predict the Interest rate as one of 3 categories (1 / 2 / 3) that will be assigned to each loan in our test set.
 ```
 Competition Type : Multiclass Classification
 
