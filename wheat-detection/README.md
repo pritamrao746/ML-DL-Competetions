@@ -27,7 +27,7 @@ The task was to detect wheat heads in images and draw a bounding box around it.
 For our first submission, we fine tuned pretrained *DETR* model for our problem. It gave us a 
 score of 0.5758 on the public leaderboard. 
 
-Refer the following notebooks for detailed implementation:
+Refer the following notebooks in detr folder for detailed implementation:
 
  1) *wheat_detection_detr_training.ipynb* : Includes processing the dataset and training on detr.
  2) *wheat_detection_detr_inference.ipynb* : Making predictions on the test images using the trained model.
