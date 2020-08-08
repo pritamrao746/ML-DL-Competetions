@@ -2,7 +2,7 @@
 ```
 Team Name : The Alphas
 
-Authors : Ashay Ajbani and Pritam Rao
+Authors : Pritam Rao and Ashay Ajbani
 
 Competition Type : Object Detection
 
@@ -22,7 +22,7 @@ The task was to detect wheat heads in images and draw a bounding box around it.
 
 ## Our Approach
 
-**Submission 1** :
+**Approach 1** :
  
 For our first submission, we fine tuned pretrained *DETR* model for our problem. It gave us a 
 score of 0.5758 on the public leaderboard. 
@@ -34,7 +34,7 @@ Refer the following notebooks in detr folder for detailed implementation:
 
 
 
-**Submission 2** : 
+**Approach 2** : 
 
 For our second attempt, we fine tuned pretrained *Efficient Detector* model for our problem.
 It gave us a score of 0.7331 on the public leaderboard. We are still in the process of 
